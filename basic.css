@@ -2,7 +2,11 @@ body {
   margin: 0;
   padding: 0;
 }
-
+section{
+  background-image: url('header-shapes mobile.png');
+  background-size: cover;
+  background-position: center;
+}
 .toolbar {
   width: 375px;
   height: 48px;
