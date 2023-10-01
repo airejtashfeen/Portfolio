@@ -391,8 +391,3 @@ body {
   height: 40px;
   margin-top: 11px;
 }
-
-@media screen and (max-width: 768px) {
-  .skills> .rightbtn{
-  }
-}
