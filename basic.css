@@ -353,7 +353,6 @@ body {
 .frameworks {
   display: inline-flex;
   width: 327px;
-  margin-left: 10px;
 }
 
 .frameworks > p {
@@ -366,7 +365,7 @@ body {
 }
 
 .frameworks > .rightbtn {
-  margin-left: 100px;
+  margin-left: 102px;
   vertical-align: middle;
   height: 40px;
   margin-top: 11px;
@@ -375,7 +374,6 @@ body {
 .skills {
   display: inline-flex;
   width: 327px;
-  margin-left: 10px;
 }
 
 .skills > p {
@@ -388,8 +386,13 @@ body {
 }
 
 .skills > .rightbtn {
-  margin-left: 172px;
+  margin-left: 175px;
   vertical-align: middle;
   height: 40px;
   margin-top: 11px;
+}
+
+@media screen and (max-width: 768px) {
+  .skills> .rightbtn{
+  }
 }
