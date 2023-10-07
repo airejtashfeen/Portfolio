@@ -46,7 +46,6 @@ Feel free to reach out to me:
 - Email: [airejtashfeen620@gmail.com](mailto:airejtashfeen620@gmail.com)
 
 ## Credits
-## Credits
 
 - [Abdul Basit](https://github.com/abasit834): Collaborator. Thank you for your contributions!
 
