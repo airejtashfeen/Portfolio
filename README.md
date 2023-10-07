@@ -11,6 +11,7 @@ This is a cloned project written using HTML and styled with CSS.
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact Me](#contact-me)
+- [Credits](#credits)  
 
 ## Installation
 
@@ -43,3 +44,10 @@ Feel free to reach out to me:
 
 - GitHub: [airejtashfeen](https://github.com/airejtashfeen)
 - Email: [airejtashfeen620@gmail.com](mailto:airejtashfeen620@gmail.com)
+
+## Credits
+
+- [Abdul Basit](https://github.com/abasit834): Collaborator. Thank you for your contributions!
+
+- [Figma Design](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?type=design&node-id=39-122&mode=design&t=J7NUiZDWz3hvKtQD-0): Design work done in Figma.
+
