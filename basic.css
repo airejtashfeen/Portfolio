@@ -126,8 +126,13 @@ body {
 .workSection {
   display: grid;
   grid-template-rows: 20%, 200%;
-  height: 100%;
   background-color: #f2f2f9;
+  width: 375px;
+height: 1,062.15px;
+top: 3506px;
+padding: 114px, 24px, 114px, 24px;
+gap: 24px;
+
 }
 
 .divNo1 {
@@ -229,10 +234,15 @@ body {
 
 .aboutMe {
   background:
-    linear-gradient(0deg, #fff, #fff),
-    linear-gradient(0deg, #dfe1e6, #dfe1e6);
+  linear-gradient(0deg, #fff, #fff),
+  linear-gradient(0deg, #dfe1e6, #dfe1e6);
   margin-top: 100px;
   border-top-right-radius: 70px;
+  width: 375px;
+height: 1,062.15px;
+padding: 114px, 24px, 114px, 24px;
+gap: 24px;
+padding-bottom: 200px;
 }
 
 .aboutMeText {
@@ -374,6 +384,7 @@ body {
 .skills {
   display: inline-flex;
   width: 327px;
+  
 }
 
 .skills > p {
@@ -392,3 +403,14 @@ body {
   margin-top: 11px;
 }
 
+.contact{
+   background-color: #6070FF;
+   width: 375px;
+height: 779px;
+top: 5410px;
+border-top-left-radius: 10%;
+margin-top: 240px;
+background-image: url('contact\ form\ shapes-mobile.svg');
+background-repeat: no-repeat;
+background-position: right;
+}
